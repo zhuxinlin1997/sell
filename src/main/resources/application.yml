@@ -1,0 +1,22 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1/sell?characterEncoding=utf-8&useSSL=false
+  jpa:
+    show-sql: true
+  jackson:
+    default-property-inclusion: non_null
+  redis:
+    host: 127.0.0.1
+    port: 6379
+server:
+  context-path: /sell
+  port: 8010
+logging:
+  pattern:
+    console: "%d - %msg%n"
+projectUrl:
+  sell: http://leilin6.cn:8010
+

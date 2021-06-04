@@ -1,0 +1,86 @@
+body{padding: 0px;
+	margin: 0px;
+}
+.pet-1{	
+	width: 100%;
+	background-color: orange;
+	height: 36px;	
+}
+.pet-1>span{
+	margin-right: 100px;
+	margin-left: 50px;
+	font-size: 18px;
+	line-height: 36px;	
+	color: white;
+}
+.pet-1-2{
+	float: right;
+	margin-right: 100px;
+}
+.pet-1-2>a{
+	text-decoration: none;
+	color: white;
+}
+.pet-2{
+	height: 150px;
+	width: 100%;
+}
+.pet-2-1{
+	margin-right: 80px;
+	width: 1000px;
+	min-height: 150px;
+	float: right;
+}
+.pet-2-1>ul{
+	list-style:none;
+}
+.pet-2-1>ul li{
+	margin-top: 50px;
+	display: list-item;
+	font-style: normal;
+	float: left;
+    position: relative;
+    width: 149px;
+    height: 45px;
+    text-align: center;
+    
+}
+.pet-2-1>ul li >a{
+	    text-decoration: none;
+}
+.b{
+	top: -35px;
+	position: relative;
+	z-index: 14;
+	font-size: 16px;
+}
+.sc{
+	position: relative;
+	z-index: 11;
+}
+
+.pet-3{
+	width: 1200px;
+	height: 300px;
+	margin: auto;
+}
+.pet-3-1{
+	height: 300px;
+	width: 225px;
+	float: left;
+	margin: 0px 5px 0px 9px;
+	background-color: red;
+}
+.pet-3-1 img{
+	height: 225px;
+	width: 225px;
+}
+.pet-3-1-1{
+	height: 45px;
+	line-height: 45px;
+	font-size: 23px;
+	text-align: center;
+}
+.pet-3-1-2{
+	font-size: 12px;
+}

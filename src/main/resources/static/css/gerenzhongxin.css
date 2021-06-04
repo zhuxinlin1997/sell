@@ -1,0 +1,47 @@
+.pet-1{	
+	width: 100%;
+	background-color: orange;
+	height: 36px;	
+}
+.pet-1>span{
+	margin-right: 100px;
+	margin-left: 50px;
+	font-size: 18px;
+	line-height: 36px;	
+	color: white;
+}
+.pet-1-2{
+	float: right;
+	margin-right: 100px;
+}
+.pet-1-2>a{
+	text-decoration: none;
+	color: white;
+}
+.grzx-a{
+	text-align: center;
+	font-weight: 550;
+	line-height: 50px;
+	margin-left: 80px;
+	float: left;
+	height: 400px;
+	width: 150px;
+	border: 1px solid gainsboro;
+}
+.grzx-a ul{
+	cursor: pointer;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+.grzx-a>ul li:hover{
+	 border-left: 3px solid #b4a078;
+	 color: #b4a078;
+}
+.grzx-b{
+	margin-left: 10px;
+	float: left;
+	height: 400px;
+	width: 900px;
+	display: none;
+}

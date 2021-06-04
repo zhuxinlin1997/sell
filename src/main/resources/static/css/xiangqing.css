@@ -1,0 +1,18 @@
+.pet-4{
+	height: 418px;
+	width: 418px;
+	float: left ;
+	margin-left: 100px;
+}
+.pet-5{
+	height: 400px;
+	width: 500px;
+	float: left ;
+	border-right: solid 1px #BFBFBF;
+}
+.pet-5 div{
+	height: 100px;
+}
+.pet-5-2{
+	background-color: whitesmoke;
+}
